@@ -75,6 +75,10 @@ Through this project, I improved my skills in:
 
 ---
 
+## 📷 Dashboard Preview
+
+![Mobile Sales Dashboard](images/dashboard1.png)
+
 ## 🚀 Future Improvements
 
 - Add advanced DAX calculations
